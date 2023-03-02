@@ -125,11 +125,6 @@ nav a:link {
     font-size: 20px;
 }
 
-nav a:link:last-child {
-    width: 100%;
-    padding: 15px;
-}
-
 nav a:hover {
     text-decoration: underline;
     text-shadow: 100px;
